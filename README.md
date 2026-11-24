@@ -1,5 +1,7 @@
 # Logistics Voice Agent
 
+[![Tests](https://github.com/ALFEZ2804/logistics-voice-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/ALFEZ2804/logistics-voice-agent/actions/workflows/tests.yml)
+
 A voice operations agent for a fictional logistics company, built with LiveKit Agents. It looks up shipment status through a tool, answers delivery-policy questions using a local document corpus, and records per-turn metrics.
 
 ## Capabilities
